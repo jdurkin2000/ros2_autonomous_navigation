@@ -1,0 +1,16 @@
+# Generated ROS files
+build/
+install/
+log/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
